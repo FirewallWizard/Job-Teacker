@@ -1,0 +1,70 @@
+Deep Shah
+
+QUALIFICATIONS SUMMARY
+
+A seasoned Project control officer offering 3+ years of experience in various diversified roles with progressive experience in the analysis of financial supporting enterprise decision making including, financial planning, analysis, budgeting, forecasting and variance analysis in Banking and IT Industry. Critical thinking, problem solving and collaborating with teams & stakeholders.
+
+Core Competencies
+•	Budgeting, planning and Forecasting
+•	Financial Modeling (Dashboard)
+•	Clarity PPM / Changepoint
+•	Microsoft Advanced Excel	•	Confluence/Jira/Share point
+•	Agile/Hybrid/PDLC Methodologies
+•	Spend map CMS
+•	JIRA Reporting & Dashboard Design
+
+      
+
+PROFESSIONAL EXPERIENCE
+Project Control Officer | CIBC                                                                                   April 2024 – December 2025
+
+Project: Decommissioning of Windows 2008, 2012 and 2016 Server and SQL Database and migrating to Windows 2022
+
+•	  Program Financial: Responsible for program financials for Windows Currency program of $11MM, from Budgeting, forecasting, Accruals Management, tracking actuals vs Variance Analysis, and Invoicing currency program contractors.
+•	Updated SharePoint sites as required and extracted reports from SharePoint for weekly RAID review meetings.
+•	Managing schedules of the program on MS Project for milestones and tasks.
+•	Provided timely reports to higher management using pivot and visual representation of data using PowerPoint, Visio, SharePoint & MS Project.
+•	  Calculating the CAPEX and OPEX for the contractor to prepare the P&L and cash flow reports for Directors.
+•	  Administered Clarity PPM for project tracking and reporting, ensuring accurate data management and governance.
+•	Acted as Scrum Master and facilitated with all the Agile ceremonies and making sure the project deployment with each release.
+•	  Acted as the central communication hub, managing project SharePoint repositories, facilitating cross-functional meetings, and ensuring alignment across stakeholders.
+•	Single point of contact for Vendors and cross functional teams to ensure risk mitigation via issue management and escalations.
+•	Collaborated with respective stakeholders and business partners to determine project timeline.
+•	   Monthly Status reporting to Finance and Program Manager on Program financials for Actual vs Budget in accordance with Scope Schedule and Cost.
+•	  Managed project timelines and cost management and cost control for all the 20 Agile teams which formed to build the Windows currency team.
+•	  Dashboard Reporting: Creating Dashboard in Microsoft Excel on program financials to Business heads and Directors and other stakeholders with the burn rate of the projects and providing. commentary on the actual’s vs planned committed value which helps in taking strategic decisions on hiring or delaying the contractor’s process.
+•	  Using advanced analysis techniques to create customized report as per the requirement of the senior management.
+•	  Created visual decks using Power BI for senior leadership team on a bi-weekly basis.
+•	  Responsible for monthly accruals for the unpaid invoices and injecting in the smart stream reporting tool and then manually reversing the entries in the next month and settling the accruals.
+•	  Resource/Contract Management and Processing: Onboarding the contractors from getting the SOW from vendors to raising the contractor’s profile in Ariba system and setting up the contracts with their committed $ value against which the invoices are processed.
+•	Responsible for providing project support services; applying all Project management standards and templates to support the project schedule management; project risk, issues, action and change management; dashboard reporting.
+
+Environment Worked: Smart Stream, Clarity PPM, MS Office, ARIBA, CMS, Jira, Confluence, 
+Spend map, Power Bi
+
+
+Project Co-ordinator/ PCO | TenUp software Service                                                           Jan 2021 – Aug 2022
+
+Project: Mobile and online banking Application for SBI Bank with small compliance project
+
+•	Controlled Program financials from budgets, cash flows, and Forecasting having all information updated in on excel dashboard to provide project status and burn rate for each.
+•	Managed contracts of subcontractors and suppliers, providing all information of accounts payable to make disbursements on time.
+•	Oversaw project budget management, including auditing deliverables, monitoring time-tracking reports, ensuring accurate drawdowns, reconciling variances, and preparing cost-to-complete forecasts.
+•	Managed compliance projects from creating shield for mobile and online & banking application. Also worked on Displaying messages for Cash Advances.
+•	Created and maintained RAID (Risks, Actions, Issues, Decisions) logs, facilitated review meetings, and provided timely updates by engaging cross-functional teams.
+•	 Produced progress reports, creating alerts related to exceeding budgets and scheduled times enabling the team to take corrective actions in a timely manner.
+•	Prepared monthly, quarterly, and annual financial reports for project inputs using MS Excel Macros, to ensure report distribution deadlines are met. Investigated and analyzed variances between actual and forecasted budget.
+•	Prepared and distributed monthly, quarterly, and annual financial and status reports, consistently meeting reporting deadlines and providing variance analysis between forecasts and actuals.
+•	Managed and tracked project change request to capture their execution and cost implication while adhering to the standard change management process using JIRA. Responsible for the preparation of cost estimates to support project change orders.
+•	Coordinated project team communications, and documented client meetings, interactions, and activities. Ensured proper communication of technical details with the project team and served as a liaison between the business and the project teams. 
+
+Environment Worked: Smart Stream, Changepoint PPM, MS Office, CMS, Jira, Confluence 
+
+EDUCATION & PROFESSIONAL DEVELOPMENT
+
+Certified Scrum Master (CSM) | Scrum Alliance - 2025
+Project Management Professional (PMP) | Project Management Institute - In Progress
+Postgraduate in Cybersecurity Operations | York University - 2024
+Bachelor’s in computer science and engineering | ITM University - 2021
+
+
