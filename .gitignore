@@ -1,0 +1,11 @@
+# Personal files
+resume.txt
+job_applications.xlsx
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
